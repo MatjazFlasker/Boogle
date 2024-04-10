@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    height: 95vh;
+    flex-direction: column;
+    
+    
+}
+
+.navbar {
+    
+    height:  40px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bmail {
+    display: flex;
+    margin-right: 15px;
+}
+
+.slike {
+    display: flex;
+    margin-right: 15px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px ;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.border {
+    border-radius:  25px;
+    text-align: center;
+    
+}
+
+.button1 {
+    display: flex;
+    border-radius: 25px;
+    
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: auto;
+}
